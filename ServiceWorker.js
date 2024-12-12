@@ -1,9 +1,9 @@
 const cacheName = "ioioio8888-CardMaker-0.1.0";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js",
-    "Build/Build.data",
-    "Build/Build.wasm",
+    "Build/CardCreator.loader.js",
+    "Build/CardCreator.framework.js",
+    "Build/CardCreator.data",
+    "Build/CardCreator.wasm",
     "TemplateData/style.css"
 
 ];
